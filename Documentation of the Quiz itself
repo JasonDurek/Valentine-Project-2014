@@ -1,0 +1,223 @@
+The data that follows here is not code, but rather the questions that were brainstormed for the quiz itself.
+
+*** NOTE ***
+Not every question is formatted here correctly.
+There will be more data put in as needed.
+
+What is your name
+
+What is your grade level
+9th
+10th
+11th
+12th
+
+What is your gender?
+male
+female
+How serious of a relationship are you looking for?
+serious dating
+casual dating
+just friends
+How fast paced do you want the relationship?
+Fast
+Normal speed
+I like to take it slow
+    What is your height? (use ranges)
+4’0”-4’5”
+4’6”-5”
+5’1”-5’6’’
+5’7’’-6’
+6’+
+on a scale of 1-5, how athletic are you? (Possible idea, change from numbers to vague answers, such as sport buff, etc..)
+1
+2
+3
+4
+5
+on a scale of 1-5, how intelligent are you?
+1
+2
+3
+4
+5
+on a scale of 1-5, how much of a gamer are you?
+1
+2
+3
+4
+5
+on a scale of 1-5, how nerdy are you?
+1
+2
+3
+4
+5
+on a scale of 1-5, how attractive are you?
+1
+2
+3
+4
+5
+on a scale of 1-5, how romantic are you?
+1
+2
+3
+4
+5
+If you were dating, how often would you like to go out on a date?
+less than once per week
+Once a week
+Twice a week
+3 or more times a week
+
+What sports do you play (select several from a list)?
+Football/Rugby
+Basketball
+Baseball
+Hockey/Field Hockey
+Wrestling
+Volleyball
+Soccer
+Lacrosse
+Crew/Kayaking/Canoeing/Sailing
+Tennis
+Golf
+Ultimate Frisbee/Frisbee Golf
+Swimming/Dive
+Rifle/Archery/Skeet Shooting/Hunting/Paintball
+Track & Field
+Skateboarding/Longboarding
+Skiing/Snowboarding
+Martial Arts
+Other (Not listed)
+I don’t do sports
+extracurricular activities? (select from a list)
+DECA
+Performing Arts
+Robotics
+Academic Competitions
+Honor Society (Math, History, English, Science, etc…)
+Leadership
+Journalism/Writing Center
+Other
+None (I don’t do extracurricular activities) 
+music preferences?
+Rock
+Pop
+Classical
+Metal
+Rap
+Country
+Electronic/Techno/Dubstep
+Alternative Rock
+Other
+What is your favorite type of media/entertainment (tv, movies, etc)?
+TV
+Computer (Internet, videos, etc)
+Newspaper
+Video Games
+Movies
+Animation/Anime/Cartoons
+Books
+Radio
+Other
+
+If you find a 20 dollar bill on the floor, do you (needs work)
+keep it
+leave it, the owner might come back for it
+give it back to the owner
+
+You score well on a math test.  do you
+ask your friends what they scored (insecurity)
+keep your grade to yourself (self confidence, maturity)
+shout out in triumph (confidence)
+shrug it off(apathy)
+show everyone(insecurity)
+
+You have a test coming up.  how long do you study for it?
+none. I can do this test in my sleep (arrogance)
+Cram right beforehand (Laziness?)
+1-2 hours
+3-5 hours (hardworking)
+(apathy)
+
+Your friends are throwing a party late at night.  you:
+ask your parents if you can go
+sneak out
+be responsible and stay at home
+
+
+Personalities/qualities to test for:
+*Kindness 3/-2
+*Honesty 1/-2
+*Confidence 2/-4
+* Hard Working/discipline/responsibility  4/-2
+*Humor? 3/-0
+Fun (do they like to party) 3/-2
+
+
+
+
+Key for Karma Scale; (Excel Locations may change later if the response spreadsheet is reset) 
+Spreadsheet refers to a document on Google Drive, which was used to track responses to the quiz.
+
+V:	A) Honesty -1, Kindness -1
+	B) Responsibility +1, Honesty +1
+	C) Kindness +1
+	D) Neutral
+
+W:	A) Confidence +1		****NOTE****
+	B) Responsibility -1		This is the only Question with 5 choices, which may throw the sytem off.
+	C) Neutral			Given this, the code will need to be able to recognize E, which means several null placeholders in most the questions
+	D) Disciplince +1
+	E) Confidence -1
+
+X:	A) Honesty +1
+	B) Fun +1, Honesty -1
+	C) Fun -1
+	D) Responsibility +1, Fun -1
+
+Y:	A) Humor +1
+	B) Kindness +1, confidence -1
+	C) Neutral
+	D) Responsibility +1
+
+Z:	A) Kindness -1
+	B) Neutral
+	C) Confidence +1, Fun +1
+	D) Confidence -1
+
+AA:	A) Honesty +1
+	B) Neutral
+	C) Responsibility -1, Honesty -1
+	D) Honesty -1, Disciplince -1
+
+AB:	A) Neutral
+	B) Confidence -1
+	C) Confidence +1
+	D) Confidence +1, Fun +1
+
+AC:	A) Responsibility +1, Discipline +1, fun -1
+	B) Humor +1, Disciplince -1
+	C) Neutral
+	D) Fun +1, Responsibility -1
+
+AD:	A) Kindness -1
+	B) Discipline +1
+	C) Kindness +1
+	D) Neutral
+
+AE:	A) Kindness +1
+	B) Responsibility +1
+	C) Responsibility -1
+	D) Kindness -1
+
+AF: ****NOTE****
+This is not a morality question, it's something that was added to "Just Freinds" section later on
+
+AG:	A) Neutral
+	B) Fun -1, Kindness -1
+	C) Discipline +1
+	D) Fun +1
+
